@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "531779397464",
+    "firebase_url": "https://testquiz-dc270-default-rtdb.firebaseio.com",
+    "project_id": "testquiz-dc270",
+    "storage_bucket": "testquiz-dc270.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531779397464:android:bc3dbcc1fd39a67906672d",
+        "android_client_info": {
+          "package_name": "com.example.test_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531779397464-31koir0t257m5t38kb24tbujlsaq1a97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZDWoI4STkf7zDr_BVCXqFWh7y-yM6xeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531779397464-31koir0t257m5t38kb24tbujlsaq1a97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
