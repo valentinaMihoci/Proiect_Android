@@ -80,10 +80,6 @@
         <activity
             android:name=".Results_section.ResultsAdminDetailed"
             android:theme="@style/AppTheme.NoActionBar" />
-        <!--<activity
-            android:name=".View.AboutUsActivity"
-            android:label="About Us!">
-        </activity>-->
 
         <activity
             android:name=".Splash_Activity.SplashAnimation"
